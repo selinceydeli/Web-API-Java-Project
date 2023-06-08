@@ -1,4 +1,4 @@
-# Web-API-Java-Project
+# Web_API_Java_Project
 Goal: Designing and implementing a Spring Boot application that has a Web API functionality for managing money transactions between accounts for a bank
 
 Used Spring Tool Suite (Eclipse) for developing the application and MongoDB database program for managing the exchanged data
